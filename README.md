@@ -15,5 +15,5 @@
 Топологическая сортировка реализована через итеративный DFS-обход графа.
 
 ## Тесты
-Написано несколько тестов получения искомого алфавита в
-[AlphabetGraphTest](src/alphabet_problem/AlphabetGraphTest.java)
+[AlphabetGraphTest](src/alphabet_problem/AlphabetGraphTest.java)  
+Написано несколько тестов получения искомого алфавита.
